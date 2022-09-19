@@ -137,6 +137,7 @@ keys.addEventListener('click', e => {
   updateVisualState(key, calculator)
 })
 
+.innerHTML
 /*
 function clear(){
   document.getElementById('result') = ""
